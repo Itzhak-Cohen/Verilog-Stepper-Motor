@@ -1,5 +1,5 @@
 # Stepper-Motor Control System in Verilog
-This project demonstrates a fully functional Step-Motor control system designed in Verilog using the Quartus environment. The system includes multiple features to control the motor's behavior such as an on-switch, directional control, step-size selection (full/half), speed control, and a quarter-circle movement mode. Detailed simulations for each feature are provided in the accompanying lab report.
+This project demonstrates a fully functional Stepper-Motor control system designed in Verilog using the Quartus environment. The system includes multiple features to control the motor's behavior such as an on-switch, directional control, step-size selection (full/half), speed control, and a quarter-circle movement mode. Detailed simulations for each feature are provided in the accompanying lab report.
 
 Features
 The following features are implemented in the design:
